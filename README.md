@@ -1,3 +1,4 @@
-## DevOps Project for Beginners   
+My Capstone Devops project 
+in this project I have Created one Git repositary and performed automatic Build operation through Maven and used jenkins as a Integration tool and deployed my application to Docker and also copy artifacts to ansible .
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
+
