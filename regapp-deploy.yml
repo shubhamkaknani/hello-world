@@ -17,7 +17,7 @@ spec:
         app: regapp
     spec:
       containers:
-      - name: reg
+      - name: regapp
         image: valaxy/regapp
         imagePullPolicy: Always
         ports:
